@@ -1,0 +1,9 @@
+# Claude Code internal data — keep off version control
+sessions/
+backups/
+shell-snapshots/
+projects/
+.last-cleanup
+
+# Local settings (machine-specific)
+.claude/settings.local.json
